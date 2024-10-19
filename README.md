@@ -1,8 +1,7 @@
 ## Hi  👋 我只會...Python
 - 股票交易用永豐 Shioaji
 - 虛擬貨幣交易台幣用 Bitopro
-- 虛擬貨幣交易現貨用 Bitfinex
-- 虛擬貨幣交易期貨用 BitMEX
+- 虛擬貨幣交易用 Bitfinex
 - 通通使用自動交易給他跑下去
 
 <!--
